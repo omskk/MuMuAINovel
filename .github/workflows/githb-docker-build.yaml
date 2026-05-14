@@ -1,4 +1,4 @@
-name: githb-docker-build
+name: 'Github Docker镜像打包'
 
 on:
   push:
